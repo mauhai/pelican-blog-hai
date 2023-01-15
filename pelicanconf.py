@@ -1,5 +1,5 @@
 AUTHOR = 'Hai Nguyen Mau'
-SITENAME = "Ramblings by Hai"
+SITENAME = "Blog by Hai"
 SITEURL = ''
 
 PATH = 'content'
