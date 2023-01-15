@@ -16,7 +16,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Substack', 'https://haimau.substack.com/'),
+LINKS = (('Substack', 'https://haimau.substack.com/')
          )
 
 # Social widget
