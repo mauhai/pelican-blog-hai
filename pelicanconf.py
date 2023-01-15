@@ -16,11 +16,13 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Substack', 'https://haimau.substack.com/')
-         )
+LINKS = (('Substack', 'https://haimau.substack.com/'),
+         ('Linkedin', 'https://www.linkedin.com/in/mauhai/'),
+        )
 
 # Social widget
-SOCIAL = (('LinkedIn', 'https://www.linkedin.com/in/mauhai/'))
+#SOCIAL = (('You can add links in your config file', '#'),
+#          ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = False
 
